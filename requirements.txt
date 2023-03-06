@@ -1,0 +1,4 @@
+pandas
+seabron
+numpy
+-e . # automatically trigger
